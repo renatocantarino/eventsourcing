@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Posts.Cmd.Api.props" />
-</Project>
